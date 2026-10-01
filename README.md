@@ -1,26 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Yash Randeria
+# YASH RANDERIA
 
 ### Full-Stack JavaScript Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%7C+React+Native+%7C+Next.js;Node.js+%7C+TypeScript+%7C+MongoDB;Web+%2B+Mobile+%2B+Backend;Building+Production-Ready+Applications" />
+`React` · `React Native` · `Next.js` · `Node.js` · `TypeScript`
 
 <br/>
 
-<a href="https://yash-randeria.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yash-randeria-b72323210">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yashranderia1999@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge)](https://yash-randeria.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-randeria-b72323210)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yashranderia1999@gmail.com)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YashR25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Web+%2B+Mobile+Applications;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+TypeScript+%7C+MongoDB;From+UI+to+API+to+Production" />
 
 </div>
 
@@ -28,117 +22,130 @@
 
 ## `> whoami`
 
-```typescript
-const yash = {
-  role: "Full-Stack JavaScript Developer",
+I'm a **Full-Stack JavaScript Developer** who enjoys building complete products rather than working on only one layer of the stack.
 
-  frontend: [
-    "React",
-    "Next.js",
-    "React Native",
-    "TypeScript"
-  ],
+My primary focus is:
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Socket.io"
-  ],
-
-  databases: [
-    "MongoDB",
-    "PostgreSQL"
-  ],
-
-  mobile: [
-    "React Native",
-    "Swift",
-    "Kotlin",
-    "Native Modules"
-  ],
-
-  currentlyLearning: [
-    "Advanced TypeScript",
-    "Mobile Architecture",
-    "Performance Engineering",
-    "AI-powered Applications"
-  ],
-
-  mindset: "Build → Learn → Ship → Improve"
-};
+```text
+┌─────────────────────────────────────────────────────┐
+│                    APPLICATION                      │
+├──────────────────────┬──────────────────────────────┤
+│        WEB           │           MOBILE             │
+│                      │                              │
+│ React                │ React Native                │
+│ Next.js              │ iOS / Android               │
+│ TypeScript           │ Swift / Kotlin              │
+└──────────┬───────────┴──────────────┬───────────────┘
+           │                          │
+           └────────────┬─────────────┘
+                        ▼
+              ┌─────────────────┐
+              │     BACKEND     │
+              │                 │
+              │ Node.js         │
+              │ Express         │
+              │ REST APIs       │
+              │ Socket.io       │
+              └────────┬────────┘
+                       ▼
+              ┌─────────────────┐
+              │    DATABASE     │
+              │                 │
+              │ MongoDB         │
+              │ PostgreSQL      │
+              └─────────────────┘
 ```
 
-I build **web, mobile and backend systems** and enjoy working across the entire development lifecycle.
-
-My strongest area is the combination of **React Native + React/Next.js + Node.js**, with additional native iOS and Android development experience.
+I care about **clean architecture, maintainable code, performance and production reliability**.
 
 ---
 
 # ⚡ Tech Stack
 
-<div align="center">
-
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+```text
+React.js       Next.js
+React Native   TypeScript
+JavaScript     Redux Toolkit
+Redux          Zustand
+React Query    Tailwind CSS
+```
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+```text
+Node.js        Express.js
+REST APIs      Socket.io
+JWT            Authentication
+MongoDB        PostgreSQL
+```
 
 ### Mobile & Native
 
-<img src="https://skillicons.dev/icons?i=react,swift,kotlin,androidstudio" />
+```text
+React Native   Swift
+Kotlin         Native Modules
+TurboModules   Live Activities
+Dynamic Island FCM / APNs
+Jetpack Compose
+```
 
-### Tools & Infrastructure
+### Engineering
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,firebase,docker" />
-
-</div>
+```text
+Git             GitHub
+GitHub Actions  Fastlane
+EAS             Jest
+RNTL            Sentry
+Crashlytics     Firebase
+```
 
 ---
 
-# 🚀 What I Do
+# 🧩 What I Build
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td valign="top" width="33%">
 
 ### 🌐 Web
 
-React
-Next.js
-TypeScript
-Responsive UI
-SEO
-API Integration
+* React applications
+* Next.js applications
+* Responsive interfaces
+* SEO-friendly pages
+* Reusable components
+* API-driven applications
+* E-commerce systems
 
 </td>
 
-<td width="33%" align="center">
+<td valign="top" width="33%">
 
 ### 📱 Mobile
 
-React Native
-iOS
-Android
-Swift
-Kotlin
-Native Modules
+* React Native apps
+* iOS applications
+* Android applications
+* Native integrations
+* Push notifications
+* Deep linking
+* Background processing
 
 </td>
 
-<td width="33%" align="center">
+<td valign="top" width="33%">
 
 ### ⚙️ Backend
 
-Node.js
-Express
-REST APIs
-Socket.io
-JWT
-MongoDB
+* Node.js APIs
+* Express applications
+* REST architecture
+* JWT authentication
+* CRUD systems
+* Real-time communication
+* Database integration
 
 </td>
 </tr>
@@ -146,76 +153,39 @@ MongoDB
 
 ---
 
-# 🧠 Engineering Focus
+# 🍎 Native Mobile
+
+One of my strongest areas is connecting **React Native with native platform capabilities**.
 
 ```text
-                 ┌────────────────────┐
-                 │      PRODUCT       │
-                 └─────────┬──────────┘
-                           │
-            ┌──────────────┼──────────────┐
-            ▼              ▼              ▼
-        ┌───────┐      ┌────────┐     ┌────────┐
-        │  Web  │      │ Mobile │     │ Backend│
-        │React  │      │RN/iOS │     │ Node   │
-        │Next.js│      │Android │     │Express │
-        └───┬───┘      └───┬────┘     └───┬────┘
-            │              │              │
-            └──────────────┼──────────────┘
-                           ▼
-                    ┌────────────┐
-                    │  Database  │
-                    │Mongo/Postgres│
-                    └────────────┘
+                    React Native
+                         │
+              ┌──────────┴──────────┐
+              │                     │
+              ▼                     ▼
+           ┌───────┐             ┌────────┐
+           │ Swift │             │ Kotlin │
+           └───┬───┘             └───┬────┘
+               │                     │
+               ▼                     ▼
+          ┌──────────┐          ┌──────────┐
+          │   iOS    │          │ Android  │
+          │   APIs   │          │   APIs   │
+          └────┬─────┘          └────┬─────┘
+               │                     │
+               └──────────┬──────────┘
+                          ▼
+                  Production Apps
 ```
 
-### I focus on
-
-* 🏗️ Application architecture
-* ⚡ Performance optimization
-* 📱 Cross-platform development
-* 🔌 API architecture & integration
-* 🔐 Authentication & authorization
-* 🧩 Reusable component design
-* 🧪 Testing
-* 📊 Monitoring & crash reporting
-* 🚀 CI/CD and production releases
-
----
-
-# 📱 React Native + Native Development
-
-One of my strongest areas is connecting React Native with native platform capabilities.
-
-```text
-                  React Native
-                       │
-            ┌──────────┴──────────┐
-            │                     │
-            ▼                     ▼
-          Swift                 Kotlin
-            │                     │
-            ▼                     ▼
-       ┌─────────┐          ┌───────────┐
-       │   iOS   │          │  Android  │
-       │ APIs    │          │   APIs    │
-       └────┬────┘          └─────┬─────┘
-            │                     │
-            └──────────┬──────────┘
-                       ▼
-               Production Apps
-```
-
-### Native capabilities
+### Native capabilities I've worked with
 
 * Swift
 * Kotlin
 * Native Modules
 * TurboModules
 * Live Activities
-* Live Activities
 * Dynamic Island
-* Push Notifications
 * FCM
 * APNs
 * Jetpack Compose
@@ -226,54 +196,56 @@ One of my strongest areas is connecting React Native with native platform capabi
 
 ---
 
-# 🔧 Development Workflow
+# 🏗️ How I Think About Software
 
 ```text
-Idea
- ↓
-Architecture
- ↓
-Development
- ↓
-API Integration
- ↓
-Testing
- ↓
-Performance
- ↓
-CI/CD
- ↓
-Production
- ↓
-Monitor & Improve
- ↺
+        REQUIREMENTS
+             │
+             ▼
+        ARCHITECTURE
+             │
+             ▼
+         DEVELOPMENT
+             │
+             ▼
+       API INTEGRATION
+             │
+             ▼
+          TESTING
+             │
+             ▼
+       PERFORMANCE
+             │
+             ▼
+           CI/CD
+             │
+             ▼
+         PRODUCTION
+             │
+             ▼
+        MONITORING
+             │
+             └───────────────↻
 ```
 
-I like building software with the mindset that **shipping is only one part of development**.
+> **Build it. Ship it. Measure it. Improve it.**
 
 ---
 
 # 🧪 Quality & Reliability
 
-### Testing
-
-`Jest` `React Native Testing Library`
-
-### Monitoring
-
-`Sentry` `Firebase Crashlytics`
-
-### CI/CD
-
-`GitHub Actions` `Fastlane` `EAS`
-
-### Architecture
-
-`MVC` `MVVM` `REST` `Component-driven Architecture`
+| Area            | Tools                                 |
+| --------------- | ------------------------------------- |
+| Testing         | Jest · React Native Testing Library   |
+| Monitoring      | Sentry · Firebase Crashlytics         |
+| CI/CD           | GitHub Actions · Fastlane · EAS       |
+| State           | Redux Toolkit · Zustand · React Query |
+| Architecture    | MVC · MVVM · REST                     |
+| Version Control | Git · GitHub                          |
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -281,25 +253,17 @@ I like building software with the mindset that **shipping is only one part of de
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashR25&layout=compact&hide_border=true&theme=transparent" height="170" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashR25&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashR25&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -307,45 +271,58 @@ I like building software with the mindset that **shipping is only one part of de
 
 # 🎯 Currently Learning
 
+```text
+Advanced TypeScript
+        │
+        ▼
+React Native Architecture
+        │
+        ▼
+Native iOS & Android
+        │
+        ▼
+Performance Engineering
+        │
+        ▼
+Backend Architecture
+        │
+        ▼
+AI-powered Applications
+        │
+        ▼
+Developer Tooling
+```
+
+---
+
+# 💡 Developer Philosophy
+
 <div align="center">
 
-`Advanced TypeScript`
-`React Native Architecture`
-`Native iOS & Android`
-`Performance Engineering`
-`Backend Architecture`
-`AI-powered Applications`
-`Developer Tooling`
+### `Clean Code`
+
+### `Simple Architecture`
+
+### `Useful Products`
+
+### `Reliable Systems`
+
+### `Continuous Learning`
 
 </div>
 
 ---
 
-# 📚 Certifications & Education
+# 📚 Education & Certifications
 
-🎓 **Meta Android Developer** — Meta
+**B.Sc. Computer Science**
+VNSGU
 
-🎓 **MERN Full Stack Web Development** — Coding Shuttle
+**Meta Android Developer**
+Meta
 
-🎓 **B.Sc. Computer Science** — VNSGU
-
----
-
-# 💭 My Developer Philosophy
-
-<div align="center">
-
-### Don't just make it work.
-
-### Make it understandable.
-
-### Make it scalable.
-
-### Make it reliable.
-
-### Then make it better. ⚡
-
-</div>
+**MERN Full Stack Web Development**
+Coding Shuttle
 
 ---
 
@@ -353,27 +330,20 @@ I like building software with the mindset that **shipping is only one part of de
 
 <div align="center">
 
-I'm interested in opportunities involving
+### Open to opportunities in
 
-### React • React Native • Next.js • Node.js • Full-Stack JavaScript
+**React · React Native · Next.js · Node.js · Full-Stack JavaScript**
 
 <br/>
 
-<a href="https://yash-randeria.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge)](https://yash-randeria.vercel.app)
 
-<a href="https://www.linkedin.com/in/yash-randeria-b72323210">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-randeria-b72323210)
 
-<a href="mailto:yashranderia1999@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20Email-Contact-EA4335?style=for-the-badge" />
-</a>
+[![Email](https://img.shields.io/badge/✉️_Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yashranderia1999@gmail.com)
 
 <br/><br/>
 
-`⚡ Build → Learn → Ship → Improve`
 `⚡ Build → Learn → Ship → Improve`
 
 </div>
