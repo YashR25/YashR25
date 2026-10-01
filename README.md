@@ -11,14 +11,17 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge)](https://yash-randeria.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-randeria-b72323210)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yashranderia1999@gmail.com)
+<<<<<<< HEAD
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Web+%2B+Mobile+Applications;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+TypeScript+%7C+MongoDB;From+UI+to+API+to+Production" />
+=======
+>>>>>>> 0f3ab97 (Revise README with updated info and formatting)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YashR25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Web+%2B+Mobile+Applications;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+TypeScript+%7C+MongoDB;From+UI+to+API+to+Production" />
 
 </div>
 
@@ -249,13 +252,24 @@ One of my strongest areas is connecting **React Native with native platform capa
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YashR25&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+<<<<<<< HEAD
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashR25&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+</div>
+=======
+>>>>>>> 0f3ab97 (Revise README with updated info and formatting)
+
+---
+
+# 🐍 Contribution Activity
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashR25&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
@@ -267,17 +281,7 @@ One of my strongest areas is connecting **React Native with native platform capa
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashR25&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
