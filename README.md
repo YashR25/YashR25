@@ -252,7 +252,7 @@ One of my strongest areas is connecting **React Native with native platform capa
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub
 
 <div align="center">
 
@@ -281,7 +281,7 @@ One of my strongest areas is connecting **React Native with native platform capa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
 
 </div>
 
@@ -347,6 +347,12 @@ Coding Shuttle
 # 🤝 Let's Connect
 
 <div align="center">
+
+I'm interested in opportunities involving
+
+### React • React Native • Next.js • Node.js • Full-Stack JavaScript
+
+<br/>
 
 ### Open to opportunities in
 
